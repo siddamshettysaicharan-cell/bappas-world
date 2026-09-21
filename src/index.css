@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body, #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0d0604;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: none;
+  }
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+.font-yatra {
+  font-family: 'Yatra One', cursive, serif;
+}
+
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Custom scrollbars hidden for game feel */
+::-webkit-scrollbar {
+  display: none;
+}
+

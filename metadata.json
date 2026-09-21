@@ -1,0 +1,7 @@
+{
+  "name": "Ganesha — Stories of Wisdom",
+  "description": "A 2D festival browser game celebrating Ganesh Chaturthi with an interactive Ganesha World hub and playable story chapters: Kubera’s Feast, Bappa’s Journey, Mushika Run, Bappa’s Book, and Bappa Match.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
